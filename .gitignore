@@ -12,3 +12,6 @@ yarn-error.log*
 *.njsproj
 *.sln
 yarn.lock
+.babelrc
+.editorconfig
+.postcssrc.js
